@@ -1,4 +1,4 @@
-# edh_track2
+# EmergencyDataHack
 Трек №2 Emergency DataHack 2021
 
 ## Финальная модель
